@@ -1,3 +1,8 @@
-img {
+img#pic{
     image-orientation: from-image;
+    width: 200px;
+}
+
+body {
+    text-align: center;
 }
