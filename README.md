@@ -4,7 +4,7 @@ Clone the repo.
 
 Add a file called `names.js` containing the constant `names` which is set to a list of the names (as strings).
 
-Add an image for each name to `images/`, where the name is of the form `B_<name>.JPG`.
+Add an image for each name to `images/`, where the filename for the image is of the form `B_<name>.JPG`.
 
 (The name list and images are uncommitted, and their locations are `.gitignore`d so that they are not shared.)
 
